@@ -3,7 +3,8 @@
 
 I have applied important Object-Oriented Programming concepts such as: 
 
-• Encapsulation: I made the fields of the Red Bird class private and added getter and setter methods to control access to these fields. 
+• Encapsulation: I made the fields of the Red Bird class private and added getter and setter methods to control access to these fields.
+
 • Abstraction: I created an abstract Bird class to represent the shared behavior of all birds, and extended it with specific bird classes like BlueBird ,RedBird and YellowBird.
 This allows for code reuse and ensures that changes to shared behavior can be made in a centralized location. 
 
